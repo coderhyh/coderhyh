@@ -8,8 +8,7 @@ Hi there! I'm coderhyh ~
 - 📫 Languages : JavaScript(Typescript), Node, Vue, React
 - 🔭 blog : [blog.coderhyh.cn](https://blog.coderhyh.cn/)
 - <img width="20px" src="https://lf3-cdn-tos.bytescm.com/obj/static/xitu_juejin_web/6c61ae65d1c41ae8221a670fa32d05aa.svg" /> juejin: [coderhyh](https://juejin.cn/user/1605753976925661)
-
-  **I'm still an ikun**
+- My favorite celebrity is kunkun:
 <div style="display: flex">
   <img alt="ikun" src="https://coderhyh.github.io/hyh-toolkit/ikun.svg" />
   <a href="https://github.com/coderhyh">
