@@ -11,9 +11,7 @@ Hi there! I'm coderhyh ~
 - My favorite celebrity is kunkun:
 <div style="display: flex">
   <img alt="ikun" src="https://coderhyh.github.io/hyh-toolkit/ikun.svg" />
-  <a href="https://github.com/coderhyh">
-    <img src="https://count.getloli.com/get/@:coderhyh" alt="coderhyh" />
-  </a>
+  <img src="https://count.getloli.com/get/@:coderhyh" alt="coderhyh" />
 </div>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/coderhyh/coderhyh/output/github-contribution-grid-snake-dark.svg">
