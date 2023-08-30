@@ -9,9 +9,9 @@ Hi there! I'm coderhyh ~
 - 🔭 Blog : [blog.coderhyh.cn](https://blog.coderhyh.cn/)
 - <img width="18px" src="https://lf3-cdn-tos.bytescm.com/obj/static/xitu_juejin_web/6c61ae65d1c41ae8221a670fa32d05aa.svg" /> Juejin : [coderhyh](https://juejin.cn/user/1605753976925661)
 - 📧 Email: coderhyh@gmail.com
-- Page View:
+- Page View :
   <img src="https://count.getloli.com/get/@:coderhyh" alt="coderhyh" />
-- My favorite celebrity is KUNKUN:
+- My favorite celebrity is KUNKUN :
   <img alt="ikun" src="https://coderhyh.github.io/hyh-toolkit/ikun.svg" />
 
 
