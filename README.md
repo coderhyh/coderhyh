@@ -11,9 +11,6 @@ Hi there! I'm coderhyh ~
 - 📧 Email: coderhyh@gmail.com
 - Page View :
   <img src="https://count.getloli.com/get/@:coderhyh" alt="coderhyh" />
-- My favorite celebrity is KUNKUN :
-  <img alt="ikun" src="https://coderhyh.github.io/hyh-toolkit/ikun.svg" />
-
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/coderhyh/coderhyh/output/github-contribution-grid-snake-dark.svg">
