@@ -10,7 +10,7 @@ Hi there! I'm coderhyh ~
 - <img width="18px" src="https://lf3-cdn-tos.bytescm.com/obj/static/xitu_juejin_web/6c61ae65d1c41ae8221a670fa32d05aa.svg" /> Juejin : [coderhyh](https://juejin.cn/user/1605753976925661)
 - 📧 Email: coderhyh@gmail.com
 - Page View :
-  <img src="https://count.getloli.com/get/@:coderhyh" alt="coderhyh" />
+  <img src="https://count.getloli.com/get/@:coderhyh" alt="page view" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/coderhyh/coderhyh/output/github-contribution-grid-snake-dark.svg">
